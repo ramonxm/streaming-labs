@@ -5,5 +5,5 @@ Streaming Labs -  your go-to source for comprehensive resources on streaming tec
 
 ## Labs
 
-- [Simple-Live-Streaming-Server](/labs/simple-live-streaming-server/)
+- [Simple-Live-Streaming-Server](/labs/simple-live-streaming-server/src/)
 
